@@ -23,7 +23,7 @@ const Trainers = () => {
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
           <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://imgs.search.brave.com/S1Rnkc6NduEW6kZu3j4tmrnIUPgI_YSt4r2jgOrng4M/rs:fit:1024:684:1/g:ce/aHR0cDovL2NsYXNz/aWZpZWRzLnVzYXRv/ZGF5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wMS9v/bmxpbmUtcGVyc29u/YWwtdHJhaW5lci0x/MDI0eDY4NC5qcGVn"/>
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-40y
+          <div class="px-8 py-10 relative z-0 w-full border-4 border-gray-200 bg-white opacity-40y
            hover:opacity-100">
             {/* <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2> */}
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Somesh Shenoy</h1>

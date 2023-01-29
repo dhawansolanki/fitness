@@ -15,7 +15,7 @@ const DietNonVegMenu = () => {
     <div class="flex flex-wrap -m-4">
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content"/>
+          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://media.istockphoto.com/id/1348185123/photo/delhi-style-chicken-butter-tandoori-in-kolkata-street-food-of-kolkata-non-veg-stock-photo.jpg?b=1&s=170667a&w=0&k=20&c=6d4hIKtqnYrq51A15a77eTFPbYGE8NAtofRB3ABdFP4=" alt="content"/>
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">The Paleo Diet</h2>
           <p class="leading-relaxed text-base">The paleo diet emphasizes whole foods, lean protein, vegetables, fruits, nuts, and seeds, while discouraging processed foods, sugar, dairy, and grains.</p>
@@ -23,7 +23,7 @@ const DietNonVegMenu = () => {
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">
         <div class="bg-gray-100 p-6 rounded-lg">
-          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"/>
+          <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://resize.indiatvnews.com/en/resize/newbucket/730_-/2020/02/non-veg-1582217034.jpg" alt="content"/>
           <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">The Dukan Diet</h2>
           <p class="leading-relaxed text-base">The Dukan diet is a high-protein, low-carb weight loss diet split into four phases — two weight loss phases and two maintenance phases.</p>

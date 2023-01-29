@@ -11,7 +11,7 @@ const Home=()=>{
             <Homecard/>
             <Stats/>
             <Testimonals/>
-            <Trainers/>
+            {/* <Trainers/> */}
         </div>
     )
 }
